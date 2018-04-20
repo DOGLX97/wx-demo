@@ -1,0 +1,19 @@
+<image class="banner" src="/images/about.jpg"></image>
+
+<view class='block'>
+  <view class='block-title'>关于我们</view>
+  <view class='block-desc'>内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容</view>
+</view>
+<view class='block'>
+  <view class='block-title'>关于我们</view>
+  <view class='block-desc'>内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容</view>
+</view>
+<view class='block'>
+  <view class='block-title'>关于我们</view>
+  <view class='block-desc'>内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容</view>
+</view>
+
+
+<view>
+  <button bindtap='tell'>电话咨询</button>
+</view>
